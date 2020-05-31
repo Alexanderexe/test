@@ -1,0 +1,16 @@
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex b945391..aa8016e 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -2,4 +2,9 @@[m
+ [m
+ Descrtiption up[m
+ [m
+[31m-#st2[m
+\ No newline at end of file[m
+[32m+[m[32m#st2[m
+[32m+[m
+[32m+[m[32m<<<<<<< HEAD[m
+[32m+[m
+[32m+[m[32mfeature111[m
+[32m+[m[32m>>>>>>> 71dd667c0ecb34b45edc844c3c518163a25832b8[m
